@@ -1,6 +1,6 @@
 # LitFM
 
-<img width="1422" alt="interface" src="https://github.com/user-attachments/assets/3f41c5ee-1879-4f0e-912e-c52f465811ec" />
+<img width="1422" alt="interface" src="interface.png" />
 
 ### **Pipeline Overview**
 1. **`citation_graph.py`**: Processes a citation graph stored in a **GEXF file**, where each node represents a research paper with the following attributes:
